@@ -149,10 +149,8 @@ The project guide proposes seven report perspectives. Include only pages actuall
 | Delay & Risk Analysis | Delayed orders, operational risk factors, ETA outliers |
 
 
-## Power BI Dashboard
 
-
-## Power BI Dashboard
+## Dashboard Screenshots
 
 The interactive Power BI dashboard consists of seven analytical pages covering overall performance, customer behavior, restaurant operations, driver performance, delivery logistics, financial analysis, and delivery delay risks.
 
@@ -179,40 +177,47 @@ The interactive Power BI dashboard consists of seven analytical pages covering o
 
 
 
+## Repository Structure
+
 ```text
-Food-Delivery-ETA-Logistics-Analytics/
+End-to-End-Food-Delivery-Orders-ETA-Logistics-Analysis/
+│
+├── Power BI/
+│   └── Food_delivery_project.pbix
+│
+├── SQL/
+│   └── food_delivery_analysis_queries.sql
+│
 ├── data/
-│   ├── raw/
-│   │   └── food_delivery_orders.csv
-│   └── processed/
-│       └── cleaned_food_delivery_orders.csv
+│   ├── cleaned/
+│   │   └── food_delivery_cleaned.csv
+│   └── raw/
+│       └── food_delivery_orders_dataset.csv
+│
 ├── notebooks/
-│   └── food_delivery_analysis.ipynb
-├── sql/
-│   └── food_delivery_analysis.sql
-├── powerbi/
-│   └── food_delivery_dashboard.pbix
-├── images/
-│   └── dashboard_screenshots/
-│       ├── executive_overview.png
-│       ├── customer_analytics.png
-│       ├── restaurant_analytics.png
-│       ├── driver_analytics.png
-│       ├── logistics_eta.png
-│       ├── financial_analysis.png
-│       └── delay_risk.png
+│   └── Food_Delivery_dataset_analysis.ipynb
+│
 ├── reports/
-│   └── project_report.pdf
+│   └── Food Delivery Orders & ETA Logistics Analysis.pdf
+│
+├── screenshots/
+│   ├── 01_Executive_Overview.png
+│   ├── 02_Customer_Analytics.png
+│   ├── 03_Restaurant_Analytics.png
+│   ├── 04_Driver_Analytics.png
+│   ├── 05_Logistics_ETA_Analytics.png
+│   ├── 06_Financial_Analysis.png
+│   └── 07_Delay_Risk_Analysis.png
+│
 ├── README.md
 └── requirements.txt
 ```
 
-*This is a recommended structure. Rename or remove entries that do not match your uploaded repository files.*
 
 ## How to Explore the Project
 
 1. Read this README to understand the objectives and analytical scope.
-2. Inspect the raw dataset and the cleaned dataset, if included.
+2. Inspect the raw dataset and the cleaned dataset.
 3. Open the Python notebook to review profiling, cleaning, feature engineering, and EDA.
 4. Explore `sql/food_delivery_analysis.sql` for business queries and aggregations.
 5. Open `powerbi/food_delivery_dashboard.pbix` in Power BI Desktop to interact with report pages and slicers.
