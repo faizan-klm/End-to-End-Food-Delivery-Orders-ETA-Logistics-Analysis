@@ -151,26 +151,32 @@ The project guide proposes seven report perspectives. Include only pages actuall
 
 ## Power BI Dashboard
 
+
+## Power BI Dashboard
+
+The interactive Power BI dashboard consists of seven analytical pages covering overall performance, customer behavior, restaurant operations, driver performance, delivery logistics, financial analysis, and delivery delay risks.
+
 ### 1. Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](screenshots/Overview.png)
 
 ### 2. Customer Analytics
-![Customer Analytics](screenshots/customer_analytics.png)
+![Customer Analytics](screenshots/Customer%20Analytics.png)
 
 ### 3. Restaurant Analytics
-![Restaurant Analytics](screenshots/restaurant_analytics.png)
+![Restaurant Analytics](screenshots/Restaurant%20Analytics.png)
 
 ### 4. Driver Analytics
-![Driver Analytics](screenshots/driver_analytics.png)
+![Driver Analytics](screenshots/Driver%20Analytics.png)
 
 ### 5. Logistics & ETA Analytics
-![Logistics and ETA](screenshots/logistics_eta.png)
+![Logistics and ETA Analytics](screenshots/Logistics%20%26%20ETA%20Analytics.png)
 
 ### 6. Financial Analysis
-![Financial Analysis](screenshots/financial_analysis.png)
+![Financial Analysis](screenshots/Financial%20Analysis.png)
 
 ### 7. Delay & Risk Analysis
-![Delay and Risk Analysis](screenshots/delay_risk_analysis.png)
+![Delay and Risk Analysis](screenshots/Delay%20%26%20Risk%20Analysis.png)
+
 
 
 ```text
