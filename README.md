@@ -148,39 +148,30 @@ The project guide proposes seven report perspectives. Include only pages actuall
 | Financial Analysis | Order value, discounts, taxes, delivery fees |
 | Delay & Risk Analysis | Delayed orders, operational risk factors, ETA outliers |
 
-### Dashboard Screenshots
 
-Add the exported images to the indicated paths to display them automatically on GitHub.
+## Power BI Dashboard
 
-**Executive Overview**
+### 1. Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
 
-![Executive Overview](images/dashboard_screenshots/executive_overview.png)
+### 2. Customer Analytics
+![Customer Analytics](screenshots/customer_analytics.png)
 
-**Customer Analytics**
+### 3. Restaurant Analytics
+![Restaurant Analytics](screenshots/restaurant_analytics.png)
 
-![Customer Analytics](images/dashboard_screenshots/customer_analytics.png)
+### 4. Driver Analytics
+![Driver Analytics](screenshots/driver_analytics.png)
 
-**Restaurant Analytics**
+### 5. Logistics & ETA Analytics
+![Logistics and ETA](screenshots/logistics_eta.png)
 
-![Restaurant Analytics](images/dashboard_screenshots/restaurant_analytics.png)
+### 6. Financial Analysis
+![Financial Analysis](screenshots/financial_analysis.png)
 
-**Driver Analytics**
+### 7. Delay & Risk Analysis
+![Delay and Risk Analysis](screenshots/delay_risk_analysis.png)
 
-![Driver Analytics](images/dashboard_screenshots/driver_analytics.png)
-
-**Logistics & ETA Analytics**
-
-![Logistics and ETA Analytics](images/dashboard_screenshots/logistics_eta.png)
-
-**Financial Analysis**
-
-![Financial Analysis](images/dashboard_screenshots/financial_analysis.png)
-
-**Delay & Risk Analysis**
-
-![Delay and Risk Analysis](images/dashboard_screenshots/delay_risk.png)
-
-## Suggested Repository Structure
 
 ```text
 Food-Delivery-ETA-Logistics-Analytics/
