@@ -260,3 +260,13 @@ Potential operational actions to evaluate from these findings include reviewing 
 ## Conclusion
 
 This project demonstrates an end-to-end analytics workflow for food delivery operations, combining Python-based data preparation and statistical analysis, MySQL business querying, and Power BI reporting. Its central focus is understanding customer demand, restaurant and driver operations, order economics, and delivery-time performance to support better-informed logistics decisions.
+
+
+## Author
+
+**Faizan Kaleem**
+
+Aspiring Data Analyst | Python • SQL • Power BI • Excel
+
+- **GitHub:** [faizan-klm](https://github.com/faizan-klm)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/faizan-klm/)
