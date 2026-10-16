@@ -236,11 +236,6 @@ End-to-End-Food-Delivery-Orders-ETA-Logistics-Analysis/
 - Which orders show unusually long estimated or actual delivery times?
 - How do discounts and delivery fees contribute to the final order amount?
 
-## Insights & Recommendations
-
-**Insert verified results from your Python, SQL, and Power BI analysis here.** Useful findings to document include the highest-volume customer segment, cuisine categories with longer preparation times, driver-experience comparisons, and traffic or weather groups with higher observed delay rates.
-
-Potential operational actions to evaluate from these findings include reviewing restaurant preparation bottlenecks, adjusting delivery planning for adverse conditions, monitoring driver allocation, and improving ETA estimation inputs. Associations in the data should not be presented as proven causes.
 
 ## Limitations
 
@@ -264,7 +259,7 @@ This project demonstrates an end-to-end analytics workflow for food delivery ope
 
 ## Author
 
-**Faizan Kaleem**
+**Mohammed Faizan Kaleem**
 
 Aspiring Data Analyst | Python • SQL • Power BI • Excel
 
